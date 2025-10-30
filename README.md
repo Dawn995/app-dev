@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# SEVERANCE
+**Severance** is an American science fiction psychological thriller television series created by **Dan Erickson** and executive produced and primarily directed by **Ben Stiller**. It premiered on Apple TV+ on February 18, 2022, and is set in the brutalist corporate headquarters of *Lumon Industries*, a biotechnology corporation that performs a procedure called *"severance"*. This procedure surgically splits an employee's memories between their work life and personal life, creating two distinct identities: the *"innie,"* who has no knowledge of the outside world, and the *"outie,"* who lives their personal life without any memory of their job.
